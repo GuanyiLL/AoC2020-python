@@ -14,8 +14,8 @@ practic python skills
 | Day 4: Passport Processing      | 🌟🌟    |
 | Day 5: Binary Boarding          | 🌟🌟    |
 | Day 6: Custom Customs           | 🌟🌟    |
-| Day 7: Handy Haversacks         |       |
-| Day 8: Handheld Halting         |       |
+| Day 7: Handy Haversacks         | 🌟🌟    |
+| Day 8: Handheld Halting         | 🌟🌟    |
 | Day 9: Encoding Error           |       |
 | Day 10: Adapter Array           |       |
 | Day 11: Seating System          |       |
