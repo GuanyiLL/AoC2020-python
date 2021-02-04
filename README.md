@@ -21,7 +21,7 @@ practic python skills
 | Day 11: Seating System          | 🌟🌟   |
 | Day 12: Rain Risk               | 🌟🌟   |
 | Day 13: Shuttle Search          | 🌟   |
-| Day 14: Docking Data            | 🌟   |
+| Day 14: Docking Data            | 🌟🌟   |
 | Day 15: Rambunctious Recitation |       |
 | Day 16: Ticket Translation      |       |
 | Day 17: Conway Cubes            |       |
